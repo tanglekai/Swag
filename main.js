@@ -1,10 +1,3 @@
-var a=0;
+var a=0u;
 console.log(a+1);
-sssssssssssss
-aaaaaaaaaaaa
-ssssssssssss
-aaaaaaaaaaaa
-sssssssssss
-aaaaaaaaaaaaa
-骚货凯
-
+/楼下是傻逼/
